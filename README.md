@@ -1,10 +1,10 @@
-# SN Share Template
-![Alt](docs/img/default.png "Libra Logo")
+# SN User Preference Migration
+![Alt](docs/img/import-ui.png "Libra Logo")
 
 ## Summary
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+No one will probably ever notice that this template text is still here ;) Points to you on SNDevs Slack if you notice...
 
 
 ## Quick Start
@@ -42,6 +42,10 @@ Submit enhancements/defects via this repo's [Issues](../../issues)
 [Jarod Mundt](https://github.com/j4rodm)
 
 ## Screenshots
-![Configure and remove unwanted left-bar apps](docs/img/left-bar-minimize.png "Libra Minimize Config")
+![Configure and remove unwanted left-bar apps](docs/img/export-ui.png "Libra Minimize Config")
 
-![List changes to your instance so nothing gets left behind](docs/img/instance-customization.png "Libra Customization Report")
+![Configure and remove unwanted left-bar apps](docs/img/export-base64.png "Libra Minimize Config")
+
+![Configure and remove unwanted left-bar apps](docs/img/import-ui.png "Libra Minimize Config")
+
+![Configure and remove unwanted left-bar apps](docs/img/import-base64.png "Libra Minimize Config")
